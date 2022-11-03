@@ -1,0 +1,11 @@
+@media screen and (max-width:768px){
+    .grid-layout {
+        flex-direction: column;
+        height: 1600px;
+        justify-content: space-evenly;
+    }
+    .img-container {
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
